@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ConscienceApp</string>
+    <string name="accessibility_service_label">Conscience Accessibility Service</string>
+    <string name="accessibility_service_description">Detects when Instagram opens or closes.</string>
+</resources>

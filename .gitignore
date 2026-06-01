@@ -1,0 +1,35 @@
+# Gradle
+.gradle/
+
+# Local config
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+
+# Build folders
+/build/
+/app/build/
+
+# Native build
+.externalNativeBuild/
+.cxx/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+env/
+.gradle/
+local.properties
+.idea/
+*.iml
+/build/
+/app/build/
+.externalNativeBuild/
+.cxx/
+.env
+env/
